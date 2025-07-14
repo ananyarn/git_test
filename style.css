@@ -1,0 +1,28 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
+
+body{
+    background-color: black;
+}
+
+p{
+    color:aquamarine;
+}
+
+.def {
+    color:aqua;
+    font-weight: bold;
+    text-align: center;
+}
+
+#intro{
+    background-color: antiquewhite;
+    color: blue;
+    font-weight: bolder;
+}
+
+.def, #intro{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
