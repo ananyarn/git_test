@@ -6,3 +6,7 @@ Repository to brush up Git Bascis as given in the Foundations course of The Odin
 THIS IS ANANYA REETHA NOBLE. 
 c'est la vie!!!
 :) ;) :)
+
+CSS - Cascade
+Specificity: 
+ID > Class > Type
